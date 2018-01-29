@@ -1,11 +1,19 @@
 {
   "name": "lab",
   "version": "1.0.0",
-  "description": "Node lab",
+  "description": "node lab",
   "main": "server/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pldobbs/node.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pldobbs/node/issues"
+  },
+  "homepage": "https://github.com/pldobbs/node#readme"
 }
